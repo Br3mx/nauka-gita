@@ -1,0 +1,23 @@
+/* Global */
+body {
+    font-size: 20px;
+    background: #3d3d3d;
+    color: #fff;
+    text-align: center;
+    padding: 60px;
+    margin: 0;
+    
+    font-family: 'Overpass', sans-serif;
+}
+
+
+/* header */
+.header-title h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 50px;
+    
+}
+.header-title h2 {
+    font-size: 30px;
+    color: bisque;
+}
