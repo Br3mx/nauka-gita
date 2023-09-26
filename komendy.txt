@@ -1,14 +1,1 @@
-{
-    "extends": ["html-validate:recommended"]
-}
-<!-- [html-validate-enable element-permitted-content] -->
-{
-  "elements": [
-    "html5",
-    "my-npm-package",
-    "./file.json",
-    {
-      /* inline metadata */
-    }
-  ]
-}
+npm exec html-validate *.html
